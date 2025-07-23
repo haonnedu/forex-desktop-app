@@ -1,0 +1,70 @@
+# ========================
+# Node.js / React frontend
+# ========================
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.DS_Store
+frontend/.eslintcache
+frontend/yarn.lock
+frontend/package-lock.json
+
+# ========================
+# Python backend
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.db
+*.sqlite3
+backend/.env
+backend/.vscode/
+backend/.idea/
+
+# ========================
+# MetaTrader / Windows Logs
+# ========================
+*.mq5
+*.ex5
+*.hst
+*.srv
+*.log
+*.dat
+*.ini
+*.tmp
+*.tick
+*.cache
+*.dmp
+
+# ========================
+# Electron app
+# ========================
+node_modules/
+dist/
+build/
+*.asar
+
+# ========================
+# System / IDE files
+# ========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.orig
+.idea/
+.vscode/
+.env
+.env.*
+
+# ========================
+# Misc
+# ========================
+*.zip
+*.7z
+*.rar
+*.tar.gz
+*.exe
